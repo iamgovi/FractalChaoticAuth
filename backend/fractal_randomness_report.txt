@@ -76,3 +76,4 @@ OVERALL SUMMARY
   These results support the claim that chaining Logistic Map,
   Mandelbrot, and Julia Set fractals in a randomly ordered
   pipeline produces cryptographically unpredictable OTPs.
+  
